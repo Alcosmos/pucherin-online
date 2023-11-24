@@ -1,5 +1,5 @@
 <?php
-    $dataURL = 'data/tools/public/pucherin/web/';
+    $dataURL = './';
 ?>
 <html>
     <head>
